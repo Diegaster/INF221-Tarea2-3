@@ -120,4 +120,4 @@ Tiempo promedio de ejecución (DP): 12000 ns
 Fuerza Bruta: 33
 Tiempo promedio de ejecución (Fuerza Bruta): 969520745 ns
 DP: 33
-Tiempo promedio de ejecución (DP): 100 ns
+Tiempo promedio de ejecución (DP): 10000 ns
